@@ -1,4 +1,4 @@
-# 🌟 BlinkIT Dashboard
+# BlinkIT Dashboard🌟
 
 This repository contains a Power BI dashboard designed to visualize and analyze operational data for BlinkIT, providing valuable insights into key business metrics and performance indicators. This dashboard is intended to help stakeholders make data-driven decisions by offering a clear and interactive view of the company's operations.
 
